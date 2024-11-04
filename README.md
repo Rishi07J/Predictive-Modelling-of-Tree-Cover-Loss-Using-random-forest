@@ -5,13 +5,19 @@ This repository contains the code, dataset, and research materials for the proje
 Repository Contents:
 
 Research Paper: Provides an in-depth analysis of the problem, data, methodology, and findings.
+
 Dataset: Contains the structured data used for analysis and model training.
+
 Notebooks:
+
 fireEDA.ipynb: Notebook for exploratory data analysis, including data cleaning, feature engineering, and visualizations.
+
 fireML.ipynb: Notebook implementing the Random Forest model for tree cover loss prediction, with steps for training, validation, and performance evaluation.
+
 Research Poster: Summarizes the project’s objectives, methodology, results, and key insights in a visual format.
 
 Key Features:
+
 Data preprocessing and analysis to understand factors affecting tree cover loss.
 Random Forest model implementation for predictive insights.
 Visualizations and feature importance to aid interpretation and decision-making.
