@@ -2,7 +2,8 @@
 
 This repository contains the code, dataset, and research materials for the project "Predictive Modelling of Tree Cover Loss Using Random Forest." The project aims to analyze and predict patterns of tree cover loss by leveraging machine learning techniques, specifically focusing on the Random Forest algorithm. By exploring various environmental and geographical factors, this model seeks to identify key drivers of deforestation and predict future cover loss.
 
-Repository Contents
+Repository Contents:
+
 Research Paper: Provides an in-depth analysis of the problem, data, methodology, and findings.
 Dataset: Contains the structured data used for analysis and model training.
 Notebooks:
